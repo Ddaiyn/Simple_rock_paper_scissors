@@ -1,16 +1,7 @@
-# rock_paper_scissors
+# Simple_rock_paper_scissors
 
-A new Flutter project.
+ボタンを押すと相手がジャンケンの手をランダムで出すシンプルなジャンケンアプリです
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![スクリーンショット 2024-11-14 175311](https://github.com/user-attachments/assets/d1f4e568-6c60-4c5e-ab09-08507f867b66)
+![スクリーンショット 2024-11-14 175321](https://github.com/user-attachments/assets/bc492247-dc1d-4f5f-a12a-5003bb0b8120)
